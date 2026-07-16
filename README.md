@@ -1,4 +1,7 @@
 # WhatsApp BOT Multi Device Pairing Code - NodeJs
+
+> **Created by Antono**
+
 Contoh skrip bot WhatsApp, menggunakan perpustakaan WhatsApp Web API
 
 ## Instalasi
