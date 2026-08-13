@@ -1,85 +1,64 @@
-# WhatsApp BOT Multi Device Pairing Code - NodeJs
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-> **Created by Antono**
+<h1 align="center">Project 👋</h1>
 
-Contoh skrip bot WhatsApp, menggunakan perpustakaan WhatsApp Web API
+<p align="center">
+  <strong></strong>
+</p>
 
-## Instalasi
-### Instal Perangkat Lunak/Paket-Paket
-#### Untuk Linux
-```bash
-sudo apt-get install nodejs
-sudo apt-get install git
-sudo apt-get install npm
-sudo apt-get install yarn
+<p align="center">
+  <a href="https://github.com/antono4/example-wa-bot-script"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/example-wa-bot-script-blue?logo=github"></a>
+  <a href="https://antono4.github.io/example-wa-bot-script/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-13-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 11:08:04 WIB-lightgrey">
+</p>
+
+---
+
+## 📖 Tentang
+
+Repository **`example-wa-bot-script`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/example-wa-bot-script/`](https://antono4.github.io/example-wa-bot-script/).
+
+## 🗂️ Struktur Proyek
+
+```
+example-wa-bot-script/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
 ```
 
-#### Untuk Windows
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `JavaScript`
+
+> Total **13 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
 ```bash
-choco install nodejs
-choco install git
-choco install yarn
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
 ```
 
-#### Untuk MacOS
-```bash
-brew install node
-brew install git
-brew install yarn
-```
+## 📬 Kontak
 
-#### Untuk Android (Termux)
-```bash
-pkg install nodejs
-pkg install git
-pkg install yarn
-```
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/example-wa-bot-script/](https://antono4.github.io/example-wa-bot-script/)
 
-### Download/Klon Proyek
-```bash
-git clone https://github.com/danitechid/example-wa-bot-script.git
-```
+## 📄 Lisensi
 
-### Pindah Direktori (CD)
-```bash
-cd example-wa-bot-script
-```
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
-### Instal Dependensi
-#### Menggunakan Npm
-```bash
-npm install
-```
-#### Atau Menggunakan Yarn
-```bash
-yarn install
-```
+---
 
-### Jalankan Server
-#### Menggunakan Npm
-```bash
-npm run start
-```
-
-#### Atau Menggunakan Yarn
-```bash
-yarn run start
-```
-
-#### Atau Menggunakan Node
-```bash
-node run start
-```
-
-#### Atau Menggunakan Bun
-```bash
-bun run start
-```
-
-## Informasi
-* Pembuat / Pengembang: Dani Ramdani (Dani Techno.) - FullStack Engineer
-* Kontak Pembuat / Pengembang: 0895 1254 5999 (WhatsApp), contact@danitechno.com (Email)
-
-## Terimakasih Kepada
-* Dani Techno. - FullStack Engineer (Pembuat / Pengembang)
-* @danitech/wa-web-api (Penyedia Library "WhatsApp Web API")
+<sub>README ini di-generate otomatis pada **2026-08-13 11:08:04 WIB** oleh GitHub Actions .</sub>
