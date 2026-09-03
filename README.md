@@ -1,1 +1,32 @@
-Last updated: 2026-09-03 17:08:02 WIB
+# whatsapp-bot
+
+
+
+## 📋 Overview
+
+This repository contains **17 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-03 20:58:39 WIB*
